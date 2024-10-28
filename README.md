@@ -8,6 +8,7 @@
 - [🎉 Usage](#-usage)
 - [📁 Project Structure](#-project-structure)
 - [💼 Business Applications](#-business-applications)
+- [🤔 How Did I Pick Random Forest?](#-how-did-i-pick-random-forest)
 - [🤝 Contributing](#-contributing)
 - [📝 License](#-license)
 - [📫 Contact](#-contact)
