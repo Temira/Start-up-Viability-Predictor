@@ -105,7 +105,7 @@ The goal of my project is to use data to predict the viability or future success
 
 I utilized a dataset of almost **50,000 start-ups**, including their funding processes and current existence status. This information was cross-referenced with the CPIs on the dates of important "life-cycle" events of the start-ups, such as their founding date, the date they raised their first round of funding, and the date they raised their last round of funding. Although the model is far from perfect, further refinements to address the inherent imbalance in the dataset are planned for future iterations.
 
-**🤔 How Did I Pick Random Forest?**
+## 🤔 How Did I Pick Random Forest?
 
 Random Forest is an example of a "bagging" algorithm. This means that the different trees in the forest run in parallel to each other. This type of algorithm is particularly effective for datasets that are imbalanced.
 
