@@ -99,7 +99,7 @@ startup-viability-predictor/
 
 ## 💼 Business Applications
 
-**Applications of Machine Learning Final Project**
+**Applications of this Machine Learning Final Project**
 
 The goal of my project is to use data to predict the viability or future success of a start-up. The business purpose of my project is to provide validation for investing in start-ups. While I do not anticipate that my model alone will be enough to justify an investment, it can help support investment decisions and boost confidence in the outcome. The model aims to be explainable, which can assist in clarifying the investment rationale to Limited Partners (LPs) or other stakeholders accountable for the investment.
 
