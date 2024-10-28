@@ -9,9 +9,9 @@
 - [📁 Project Structure](#-project-structure)
 - [💼 Business Applications](#-business-applications)
 - [🤔 How Did I Pick Random Forest?](#-how-did-i-pick-random-forest)
-- [🤝 Contributing](#-contributing)
 - [📝 License](#-license)
 - [📫 Contact](#-contact)
+
 
 ## 🌟 Project Overview
 Welcome to **Temira's Black Box VC Investing Algorithm**! This project aims to predict the viability and future success of start-ups using a machine learning model. The goal is to provide validation for investing in start-ups, boosting confidence in investment decisions. While the model alone may not justify an investment, it serves as a valuable tool for explaining investment choices to Limited Partners (LPs) and other stakeholders. 📈
