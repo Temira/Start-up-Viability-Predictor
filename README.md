@@ -86,7 +86,7 @@ cd startup-viability-predictor
    df['found'] = df['founded_at'].str.slice(0, 7)
    ```
 
-5. **Model Training**: Use the cleaned dataset to train your machine learning model (specific code for model training would follow here).
+5. **Model Training**: Use the cleaned dataset to train your machine learning model.
 
 ## 📁 Project Structure
 ```plaintext
